@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe Page Solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-QSxS-MdR-f). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://dpiskov-recipe-page.netlify.app/). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## 📖 Table of Contents
 
@@ -41,7 +41,7 @@ Since this is a static website, you can run it locally right from your browser.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/hritwickmanna/Frontend-Mentor-Recipe-Page-Solution.git
     ```
     *(Or simply download the ZIP file)*
 
