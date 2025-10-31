@@ -4,11 +4,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ## 📖 Table of Contents
 
-* [Overview](#-overview)
-* [Features](#-features)
-* [Technologies Used](#-technologies-used)
-* [How to Run](#-how-to-run)
-* [Acknowledgments](#-acknowledgments)
+* [Overview](#overview)
+* [Features](#features)
+* [Technologies Used](#technologies-used)
+* [How to Run](#how-to-run)
+* [Acknowledgments](#acknowledgments)
 
 ## Overview
 
