@@ -39,13 +39,13 @@ Since this is a static website, you can run it locally right from your browser.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/hritwickmanna/Frontend-Mentor-Recipe-Page-Solution.git
+    git clone [https://github.com/hritwickmanna/Frontend-Mentor-Recipe-Page-Solution.git](https://github.com/hritwickmanna/Frontend-Mentor-Recipe-Page-Solution.git)
     ```
     *(Or simply download the ZIP file)*
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd your-repo-name
+    cd Frontend-Mentor-Recipe-Page-Solution
     ```
 
 3.  **Open the `index.html` file:**
